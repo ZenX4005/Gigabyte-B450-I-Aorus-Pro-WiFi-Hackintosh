@@ -1,7 +1,10 @@
 # Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh
 Gigabyte B450 I Aorus Pro WiFi Hackintosh
 
-## Specs
+## Motherboard Layout
+![Gigabyte B450 Aorus M Motherboard Layout](https://static.gigabyte.com/StaticFile/Image/Global/3786e5245403cf83d55ef3c89eaf3bec/Product/20035/webp/1000)
+
+## Hackintosh Specs
 | Item    | Type                            |
 | ---:    |                            :--- |
 | CPU     | AMD Ryzen 5 3600                |
@@ -16,4 +19,4 @@ Gigabyte B450 I Aorus Pro WiFi Hackintosh
 ![Backpanel USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh/blob/main/USB-Map%20(Aorus).jpg)
 
 ## Hackintool USB Mapping
-![HAckintool USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh/blob/main/USB-Map%20(Aorus).png)
+![Hackintool USB Mapping](https://github.com/ZenX4005/Gigabyte-B450-I-Aorus-Pro-WiFi-Hackintosh/blob/main/USB-Map%20(Aorus).png)
