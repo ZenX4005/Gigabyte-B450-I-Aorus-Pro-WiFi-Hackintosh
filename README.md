@@ -12,6 +12,7 @@ Gigabyte B450 I Aorus Pro WiFi Hackintosh
 | PSU     | Corsair RM850 80+ Gold          |
 | MB      | Gigabyte B450 I Aorus Pro WiFi  |
 | RAM     | 2x8GB KLEVV Bolt X PC-3200      |
+| WiFi/BT | Fenvi BCM94360NG                |
 | Cooling | ID-Cooling AIO FrostFlow X 120  |
 | Case    | Silverstone SG-13               |
 
